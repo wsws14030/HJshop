@@ -11,7 +11,7 @@
 </script>
 </head>
 
-<body  >
+<body>
 	<div class="header">
 		<div style="display:flex;margin-left: 120px;">
 			<% if(session.getAttribute("user_id")==null) {%>
