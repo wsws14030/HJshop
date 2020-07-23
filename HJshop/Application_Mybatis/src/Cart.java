@@ -20,7 +20,7 @@ public class Cart {
 	public void setNo(Integer no) {
 		this.no = no;
 	}
-	public Integer getPrice() {
+	public Integer getPrice() {        
 		return price;
 	}
 	public void setPrice(Integer price) {
